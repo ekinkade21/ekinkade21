@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Eli Kinkade!
-- 👀 I’m interested in Cognitive Psychology and it's integration into coding.
-- 🌱 I’m currently learning Object Oriented Design Programming at Northeastern University.
+- 👀 I’m currently looking for an co-op/internship for the Fall of 2022
+- 🌱 I am studying Computer Science and Cognitive Psychology at Northeastern University.
 
 <!---
 ekinkade21/ekinkade21 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
