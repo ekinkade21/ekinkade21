@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Eli Kinkade!
-- 🌱 I am studying Computer Science and Cognitive Psychology at Northeastern University.
-- Projects available upon request.
+- 🌱 I have a Computer Science and Cognitive Psychology degree from Northeastern University.
+- More Projects available upon request.
 
 <!---
 ekinkade21/ekinkade21 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
