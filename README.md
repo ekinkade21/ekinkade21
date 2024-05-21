@@ -1,5 +1,6 @@
 - 👋 Hi, I’m Eli Kinkade!
 - 🌱 I have a Computer Science and Cognitive Psychology degree from Northeastern University.
+- Here is a recent Software Engineering Project I worked on: https://spring24-project-team-102.onrender.com/
 - More Projects available upon request.
 
 <!---
